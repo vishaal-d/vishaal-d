@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaal-d&label=Profile%20views&color=0e75b6&style=flat" alt="vishaal-d" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishaal-d" alt="vishaal-d" /></a> </p>
-
 - 🌱 I’m currently learning **SCSS , Java Script , R Programming**
 
 - 💬 Ask me about **CSS , Bootstrap , SQL , Python , C , C++ , Power Bi**
@@ -24,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishaal-d&show_icons=true&locale=en&layout=compact" alt="vishaal-d" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishaal-d&show_icons=true&locale=en" alt="vishaal-d" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishaal-d&" alt="vishaal-d" /></p>
